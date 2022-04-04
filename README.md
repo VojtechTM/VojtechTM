@@ -1,3 +1,5 @@
+<style>.center {text-align: center;}</style>
+<div class="center">
 # VojtechTM
 Just floating through space...
 <p align="center">
@@ -5,3 +7,4 @@ Just floating through space...
     <img src="https://skillicons.dev/icons?i=git,bash,c,bootstrap,gtk,linux,lua,raspberrypi,vala," />
   </a>
 </p>
+</div>

@@ -1,4 +1,4 @@
-<div <style>.center {text-align: center;}</style>>
+<div style="text-align: center;" markdown="1">
 # VojtechTM
 Just floating through space...
 <p align="center">

@@ -1,5 +1,4 @@
-<style>.center {text-align: center;}</style>
-<div class="center">
+<div <style>.center {text-align: center;}</style>>
 # VojtechTM
 Just floating through space...
 <p align="center">
